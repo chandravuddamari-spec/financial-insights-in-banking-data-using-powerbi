@@ -71,3 +71,7 @@ Sai Chandra Vuddamari is a Research and Innovation Analyst with over 4 years of 
 ---
 
 Happy analyzing!
+
+## Credits
+
+`Financial Bank Power Bi Dashboard.pbix` restored from [meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI](https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI).
